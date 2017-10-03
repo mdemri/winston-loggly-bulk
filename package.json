@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "node-loggly-bulk": "https://github.com/mdemri/node-loggly-bulk.git",
-    "winston": "^2.3.1"
+    "winston": "2.3.1"
   },
   "devDependencies": {
     "vows": "0.8.0"
